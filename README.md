@@ -9,7 +9,7 @@ This project contains Python implementations of three fundamental SAT-solving al
 - LICENSE: MIT license
 
 # Instructions: How to run
-Python 3 is needed. To run a certain solver on a certain CNF folder, run this command:
+Python 3 is needed. To run a certain solver on a certain CNF folder, run this command (change accordingly):
 ```bash
 python scripts/dpll.py cnfs/small
 
