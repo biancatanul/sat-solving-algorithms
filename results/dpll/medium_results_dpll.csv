@@ -1,0 +1,19 @@
+Filename,Expected,Solver Result,Correct?,Time (s)
+aim-50-1_6-yes1-1.cnf,SAT,SAT,Yes,0.033229
+aim-50-1_6-yes1-2.cnf,SAT,SAT,Yes,0.018980
+aim-50-1_6-yes1-3.cnf,SAT,SAT,Yes,0.012679
+aim-50-1_6-yes1-4.cnf,SAT,SAT,Yes,0.009842
+aim-50-2_0-yes1-1.cnf,SAT,SAT,Yes,0.054492
+aim-50-2_0-yes1-2.cnf,SAT,SAT,Yes,0.028563
+aim-50-2_0-yes1-3.cnf,SAT,SAT,Yes,0.017114
+aim-50-2_0-yes1-4.cnf,SAT,SAT,Yes,0.029217
+aim-50-3_4-yes1-1.cnf,SAT,SAT,Yes,0.045177
+aim-50-3_4-yes1-2.cnf,SAT,SAT,Yes,0.366582
+aim-50-1_6-no-1.cnf,UNSAT,UNSAT,Yes,0.296432
+aim-50-1_6-no-2.cnf,UNSAT,UNSAT,Yes,0.130389
+aim-50-1_6-no-3.cnf,UNSAT,UNSAT,Yes,0.125826
+aim-50-1_6-no-4.cnf,UNSAT,UNSAT,Yes,0.056530
+aim-50-2_0-no-1.cnf,UNSAT,UNSAT,Yes,0.490910
+aim-50-2_0-no-2.cnf,UNSAT,UNSAT,Yes,0.124896
+aim-50-2_0-no-3.cnf,UNSAT,UNSAT,Yes,0.137051
+aim-50-2_0-no-4.cnf,UNSAT,UNSAT,Yes,0.044120

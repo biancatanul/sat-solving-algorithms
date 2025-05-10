@@ -1,0 +1,21 @@
+Filename,Expected,Solver Result,Correct?,Time (s)
+test 1.cnf,SAT,SAT,Yes,0.000025
+test 10.cnf,SAT,SAT,Yes,0.000036
+test 2.cnf,SAT,SAT,Yes,0.000041
+test 3.cnf,SAT,SAT,Yes,0.000016
+test 4.cnf,SAT,SAT,Yes,0.000034
+test 5.cnf,SAT,SAT,Yes,0.000008
+test 6.cnf,SAT,SAT,Yes,0.000009
+test 7.cnf,SAT,SAT,Yes,0.000037
+test 8.cnf,SAT,SAT,Yes,0.000018
+test 9.cnf,SAT,SAT,Yes,0.000039
+running_example.cnf,UNSAT,UNSAT,Yes,0.000018
+test 11.cnf,UNSAT,UNSAT,Yes,0.000009
+test 12.cnf,UNSAT,UNSAT,Yes,0.000021
+test 13.cnf,UNSAT,UNSAT,Yes,0.000010
+test 14.cnf,UNSAT,UNSAT,Yes,0.000036
+test 15.cnf,UNSAT,UNSAT,Yes,0.000076
+test 16.cnf,UNSAT,UNSAT,Yes,0.000026
+test 17.cnf,UNSAT,UNSAT,Yes,0.000013
+test 18.cnf,UNSAT,UNSAT,Yes,0.000013
+test 19.cnf,UNSAT,UNSAT,Yes,0.000010

@@ -1,0 +1,21 @@
+Filename,Expected,Solver Result,Correct?,Time (s)
+uf20-01.cnf,SAT,SAT,Yes,0.016783
+uf20-010.cnf,SAT,SAT,Yes,0.017262
+uf20-02.cnf,SAT,SAT,Yes,0.007131
+uf20-03.cnf,SAT,SAT,Yes,0.003477
+uf20-04.cnf,SAT,SAT,Yes,0.006080
+uf20-05.cnf,SAT,SAT,Yes,0.003842
+uf20-06.cnf,SAT,SAT,Yes,0.001702
+uf20-07.cnf,SAT,SAT,Yes,0.003804
+uf20-08.cnf,SAT,SAT,Yes,0.006387
+uf20-09.cnf,SAT,SAT,Yes,0.001711
+file1.cnf,UNSAT,UNSAT,Yes,0.000123
+file10.cnf,UNSAT,UNSAT,Yes,0.000170
+file2.cnf,UNSAT,UNSAT,Yes,0.000503
+file3.cnf,UNSAT,UNSAT,Yes,0.000351
+file4.cnf,UNSAT,UNSAT,Yes,0.000152
+file5.cnf,UNSAT,UNSAT,Yes,0.000209
+file6.cnf,UNSAT,UNSAT,Yes,0.000199
+file7.cnf,UNSAT,UNSAT,Yes,0.000176
+file8.cnf,UNSAT,UNSAT,Yes,0.000361
+file9.cnf,UNSAT,UNSAT,Yes,0.000146
